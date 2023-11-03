@@ -1,1 +1,1 @@
-# 1340-Midterm
+# INF1340-Midterm
