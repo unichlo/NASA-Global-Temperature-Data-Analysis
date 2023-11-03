@@ -15,8 +15,10 @@ The project calculates various metrics like averages, medians, and standard devi
 ## Execution Instructions
 
 1. Download the input data file: midterm_input.csv
-2. Run the program
-3. Download the output file: midterm_output.txt or see the result on screen
+   cd midterm_input.csv
+3. Run the program
+   
+5. Download the output file: midterm_output.txt or see the result on screen
 
 ## Data Source
 All data has been sourced from the [NASA's Climate Change website](https://climate.nasa.gov/vital-signs/global-temperature/).
