@@ -12,11 +12,13 @@ The dataset presents two sets of data points:
 
 The project calculates various metrics like averages, medians, and standard deviations for both datasets. It then provides a combined report that aids in understanding and comparing the trends from the two data sets.
 
-## Execution Instructions
+## Instructions: Run the program using Colab
 
 1. Download the input data file: midterm_input.csv
-3. Run the program: midterm_project.py
-5. Download the output file: midterm_output.txt or see the result on screen
+2. Upload file: midterm_project.py
+3. Enter the name of file: midterm_input.csv
+4. Enter the name for the output file: midterm_output.txt
+5. Download the output file or see the result on screen
 
 ## Data Source
-All data has been sourced from the [NASA's Climate Change website](https://climate.nasa.gov/vital-signs/global-temperature/).
+All data has been sourced from  [NASA's Climate Change website](https://climate.nasa.gov/vital-signs/global-temperature/).
