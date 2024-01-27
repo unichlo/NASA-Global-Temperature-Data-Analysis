@@ -1,6 +1,3 @@
-# INF1340 - Midterm Project
-# Student Name: Chloe Li
-# Student Number: 1010033321
 # NASA Global Temperature Data Analysis
 
 ## Description
@@ -14,10 +11,10 @@ The project calculates various metrics like averages, medians, and standard devi
 
 ## Instructions: Run the program using Colab
 
-1. Download the input data file: midterm_input.csv
-2. Upload file: midterm_project.py
-3. Enter the name of file: midterm_input.csv
-4. Enter the name for the output file: midterm_output.txt
+1. Download the input data file: nasa_input.csv
+2. Upload file: nasa_project.py
+3. Enter the name of file: nasa_input.csv
+4. Enter the name for the output file: nasa_output.txt
 5. Download the output file or see the result on screen
 
 ## Data Source
