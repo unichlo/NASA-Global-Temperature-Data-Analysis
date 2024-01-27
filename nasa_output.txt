@@ -1,0 +1,17 @@
+Average of No_Smoothing: 0.05825174825174833
+Maximum of No_Smoothing: 1.01
+Minimum of No_Smoothing: -0.49
+Median of No_Smoothing: -0.06
+Number of positive values in No_Smoothing: 64
+Number of negative values in No_Smoothing: 78
+Variance of No_Smoothing: 0.13455708347596462
+Standard Deviation of No_Smoothing: 0.36682023318781726
+
+Average of Lowess: 0.0583216783216783
+Maximum of Lowess: 0.93
+Minimum of Lowess: -0.41
+Median of Lowess: -0.04
+Number of positive values in Lowess: 60
+Number of negative values in Lowess: 79
+Variance of Lowess: 0.12606851190767274
+Standard Deviation of Lowess: 0.3550612790880931
